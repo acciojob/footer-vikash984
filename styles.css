@@ -1,1 +1,27 @@
-/* your code here */
+  footer{
+    background-color: #333;
+    color: white;
+    font-family: cursive;
+    padding: 30px;
+}
+
+.content{
+    width: 100%;
+    margin:0 auto;
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.link-boxes{
+    display: flex;
+}
+.media-icons{
+	display:flex;
+	justify-content: space-between;
+	gap:10px;
+}
